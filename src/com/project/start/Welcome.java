@@ -7,7 +7,8 @@ public class Welcome {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("Hola a Todos!");
+		System.out.println("Hola a Todos, como están!");
+		System.out.println("Esto es 1 + 1=" + (1+1));
 	}
 
 }
